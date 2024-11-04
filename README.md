@@ -4,6 +4,7 @@
 
 - [Project overview](#Project-overview)
 - [Data source](#Data-source)
+- [Dashboard](#Dash-board)
 - [Tools](#Tools)
 - [Data cleaning/preparation](#Data-cleaning/preparation)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
