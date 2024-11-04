@@ -24,6 +24,12 @@ The sales insight project analyzes sales data for a production company specializ
 
 The primary dataset used for this analysis is the "Office supply(1).xlsx csv" file. containing detailed information about each sales made by the company.
 
+### Dashboard
+![GINT EXCEL FINAL PROJECT](https://github.com/user-attachments/assets/b130a288-6a6c-4a61-af3c-88ce0934a139)
+
+![GITN POWERBI FINAL PROJECT](https://github.com/user-attachments/assets/29bed195-7b4c-4186-8120-86a529a74c63)
+
+
 ### Tools
 - Excel - Data cleaning/ Visualisation
 -  [download here](https://microsoft.com)
